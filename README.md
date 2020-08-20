@@ -1,4 +1,4 @@
-# GoFinances Web
+# 🚀 GoFinances Web
 
 Desafio de continuação do desenvolvendo da aplicação de gestão de transações, a GoFinances propposta 
 pela Bootcamp da Rpcketseat. Essa aplicação foi feita em React.js junto com TypeScript, 
