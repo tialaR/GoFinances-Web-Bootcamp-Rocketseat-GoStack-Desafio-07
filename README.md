@@ -1,12 +1,12 @@
 # 🚀 GoFinances Web
 
-Desafio de continuação do desenvolvendo da aplicação de gestão de transações, a GoFinances propposta 
-pela Bootcamp da Rpcketseat. Essa aplicação foi feita em React.js junto com TypeScript, 
-utilizando rotas e envio de arquivos por formulário.
+Challenge to continue the development of the transaction management application, the proposed GoFinances
+by Rpcketseat's Bootcamp. This application was made in React.js together with TypeScript,
+using routes and sending files by form.
 
-Essa aplicação se conecta ao backend do [Desafio 06]
+This application connects to the backend of [Challenge 06]
 (https://github.com/tialaR/Desafio-GoStack-06-Database-Upload), 
-exibindo as transações criadas e permitindo a importação de um arquivo CSV para gerar novos registros no banco de dados.
+displaying the transactions created and allowing the import of a CSV file to generate new records in the database.
 
 ![](tela1.png)
 ![](tela2.png)
